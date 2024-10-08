@@ -39,4 +39,8 @@
 7. **Update [message]** (Bot owner only)
    - Sends an update message to all servers' "Soundwave" channels.
    - Example: `/update "Here’s an update from the bot!"`
+<h1 align=center>Set-Up</h1>
+
+<a href="[url](https://discord.com/oauth2/authorize?client_id=1289690644310392884&permissions=268437520&integration_type=0&scope=bot
+)">link text</a>
 
