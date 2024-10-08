@@ -12,31 +12,31 @@
 
 ## Commands
 
-1. **set_channel**
+1. **Set_channel**
    - Sets the current channel as the "Soundwave" channel where the daily role will have posting permissions.
    - Example: `/set_channel`
    
-2. **set_role [day] [role]**
+2. **Set_role [day] [role]**
    - Assigns a specific role to a given day of the week. Only users with the "Soundwave Role" can use this command.
    - Example: `/set_role Monday @MyRole`
    
-3. **s-day**
+3. **S-day**
    - Displays which role is assigned to post today.
    - Example: `/whose_day`
    
-4. **s-tomorrow**
+4. **S-tomorrow**
    - Shows the role assigned to post tomorrow.
    - Example: `/whose_day_tomorrow`
    
-5. **schedule**
+5. **Schedule**
    - Displays the posting schedule for the entire week.
    - Example: `/schedule`
    
-6. **help**
+6. **Help**
    - Displays a list of all available commands with descriptions.
    - Example: `/help`
    
-7. **update [message]** (Bot owner only)
+7. **Update [message]** (Bot owner only)
    - Sends an update message to all servers' "Soundwave" channels.
    - Example: `/update "Here’s an update from the bot!"`
 
