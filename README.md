@@ -18,31 +18,48 @@
    - Sets the current channel as the "Soundwave" channel where the daily role will have posting permissions.
    <br>
    - Example: <code>/set_channel</code>
-   
+</p>
+<p align="center">
 2. <strong>Set_role [day] [role]</strong>
+   <br>
    - Assigns a specific role to a given day of the week. Only users with the "Soundwave Role" can use this command.
+   <br>
    - Example: <code>/set_role Monday @MyRole</code>
-   
+</p>
+
+<p align="center">   
 3. <strong>S-day</strong>
+   <br>
    - Displays which role is assigned to post today.
+   <br>
    - Example: <code>/whose_day</code>
-   
+</p>
+
+<p align="center">
 4. <strong>S-tomorrow</strong>
+   <br>
    - Shows the role assigned to post tomorrow.
+   <br>
    - Example: <code>/whose_day_tomorrow</code>
-   
+</p>
+
+<p align="center">
 5. <strong>Schedule</strong>
    - Displays the posting schedule for the entire week.
    - Example: <code>/schedule</code>
-   
+</p>
+
+<p align="center"> 
 6. <strong>Help</strong>
    - Displays a list of all available commands with descriptions.
    - Example: <code>/help</code>
-   
+</p>
+
+<p align="center">
 7. <strong>Update [message]</strong> (Bot owner only)
    - Sends an update message to all servers' "Soundwave" channels.
    - Example: <code>/update "Here’s an update from the bot!"</code>
-</p>
+   </p>
 
 
 <h1 align=center>Add the Bot to Your Server</h1>
