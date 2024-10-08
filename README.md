@@ -45,19 +45,25 @@
 
 <p align="center">
 5. <strong>Schedule</strong>
+   <br>
    - Displays the posting schedule for the entire week.
+   <br>
    - Example: <code>/schedule</code>
 </p>
 
 <p align="center"> 
 6. <strong>Help</strong>
+   <br>
    - Displays a list of all available commands with descriptions.
+   <br>
    - Example: <code>/help</code>
 </p>
 
 <p align="center">
 7. <strong>Update [message]</strong> (Bot owner only)
+   <br>
    - Sends an update message to all servers' "Soundwave" channels.
+   <br>
    - Example: <code>/update "Here’s an update from the bot!"</code>
    </p>
 
