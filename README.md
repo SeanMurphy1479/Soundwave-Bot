@@ -10,7 +10,7 @@
 - **Command-Based Configuration**: Users with the appropriate permissions can use slash commands to configure the bot and check who can post on a given day.
 - **Hourly Permission Check**: The bot checks and updates permissions every hour, ensuring proper role management throughout the day.
 
-## Commands
+<h1 align=center >Commands </h1>
 
 1. **Set_channel**
    - Sets the current channel as the "Soundwave" channel where the daily role will have posting permissions.
