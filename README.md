@@ -40,7 +40,7 @@
    - Sends an update message to all servers' "Soundwave" channels.
    - Example: `/update "Here’s an update from the bot!"`
 <h1 align=center>Add the Bot to Your Server</h1>
-
+If you want to use the bot you can invite it you your server with this link
 <a href="https://discord.com/oauth2/authorize?client_id=1289690644310392884&permissions=268437520&integration_type=0&scope=bot
-">link text</a>
+">Add Bot</a>
 
