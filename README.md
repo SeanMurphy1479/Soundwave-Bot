@@ -13,11 +13,11 @@
 <h1 align=center >Commands </h1>
 
 <p align=center>
-1. **Set_channel**
+1. <strong>Set_channel</strong>
    - Sets the current channel as the "Soundwave" channel where the daily role will have posting permissions.
    - Example: `/set_channel`
    
-2. **Set_role [day] [role]**
+2. <strong> Set_role [day] [role] </strong>
    - Assigns a specific role to a given day of the week. Only users with the "Soundwave Role" can use this command.
    - Example: `/set_role Monday @MyRole`
    
