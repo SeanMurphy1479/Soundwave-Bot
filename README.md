@@ -12,6 +12,7 @@
 
 <h1 align=center >Commands </h1>
 
+<p align=center>
 1. **Set_channel**
    - Sets the current channel as the "Soundwave" channel where the daily role will have posting permissions.
    - Example: `/set_channel`
@@ -39,6 +40,8 @@
 7. **Update [message]** (Bot owner only)
    - Sends an update message to all servers' "Soundwave" channels.
    - Example: `/update "Here’s an update from the bot!"`
+</p>
+
 <h1 align=center>Add the Bot to Your Server</h1>
 <p align=center>
 If you want to use the bot you can invite it you your server with this link:
