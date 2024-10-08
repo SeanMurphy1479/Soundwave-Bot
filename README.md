@@ -14,6 +14,7 @@
 
 <p align="center">
 1. <strong>Set_channel</strong>
+   <br>
    - Sets the current channel as the "Soundwave" channel where the daily role will have posting permissions.
    <br>
    - Example: <code>/set_channel</code>
