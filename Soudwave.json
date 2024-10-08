@@ -1,1 +1,29 @@
+{
+    "guilds": {
+        "Guild_ID_1": {
+            "channel_id": Channel_ID_1,
+            "roles": {
+                "Monday": "Monday_Role",
+                "Tuesday": "Tuesday_Role",
+                "Wednesday": "Wednesday_Role",
+                "Thursday": "Thursday_Role",
+                "Friday": "Friday_Role",
+                "Saturday": "Saturday_Role",
+                "Sunday": "Sunday_Role"
+            }
+        },
+        "Guild_ID_2": {
+            "channel_id": Channel_ID_2,
+            "roles": {
+                "Monday": null,
+                "Tuesday": null,
+                "Wednesday": null,
+                "Thursday": null,
+                "Friday": null,
+                "Saturday": null,
+                "Sunday": null
+            }
+        }
+    }
+}
 
