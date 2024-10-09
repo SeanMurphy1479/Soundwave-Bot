@@ -196,7 +196,8 @@ async def check_permissions():
                                         attach_files = send_messages_perm,
                                         embed_links = send_messages_perm,
                                         create_polls = send_messages_perm,
-                                        send_voice_messages = send_messages_perm)
+                                        send_voice_messages = send_messages_perm,
+                                        mention_everyone = send_messages_perm)
 
 # Schedule the task to run every hour
 @tasks.loop(hours=1)
