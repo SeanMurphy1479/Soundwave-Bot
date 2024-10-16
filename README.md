@@ -59,14 +59,6 @@
    - Example: <code>/help</code>
 </p>
 
-<p align="center">
-7. <strong>Update [message]</strong> (Bot owner only)
-   <br>
-   - Sends an update message to all servers' "Soundwave" channels.
-   <br>
-   - Example: <code>/update "Here’s an update from the bot!"</code>
-   </p>
-
 
 <h1 align=center>Add the Bot to Your Server</h1>
 <p align=center>
